@@ -1,0 +1,9 @@
+id,name,label
+학생부교과,학생부교과,AdmissionType
+학생부종합,학생부종합,AdmissionType
+논술,논술,AdmissionType
+전공적성,전공적성,AdmissionType
+면접,면접,AdmissionType
+실기,실기,AdmissionType
+수능,수능,AdmissionType
+기타,기타,AdmissionType
